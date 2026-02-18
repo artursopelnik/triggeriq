@@ -1,4 +1,4 @@
-import type { TriggerConfig } from "@trigger.dev/sdk/v3";
+import type { TriggerConfig } from "@trigger.dev/sdk";
 
 export const config: TriggerConfig = {
   // Replace <your-project-ref> with your project id: https://trigger.dev/docs/trigger-config

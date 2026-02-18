@@ -4,8 +4,11 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "@trigger.dev/sdk": "^4.3.3"
+  },
   "devDependencies": {
+    "@trigger.dev/build": "^4.3.3",
     "lerna": "^9.0.4"
   }
 }

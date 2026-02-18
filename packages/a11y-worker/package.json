@@ -1,10 +1,11 @@
 {
-  "name": "a11y",
+  "name": "a11y-worker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "npx trigger.dev@latest dev",
+    "start": "npx trigger.dev@latest dev",
+    "dev": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
