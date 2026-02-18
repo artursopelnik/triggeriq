@@ -1,0 +1,20 @@
+{
+  "name": "a11y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx trigger.dev@latest dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@trigger.dev/sdk": "^4.3.3"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "^4.3.3"
+  }
+}
